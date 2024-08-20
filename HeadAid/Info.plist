@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>HeadAid</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>&quot;This app uses Health data to provide personalized headache insights.&quot;</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>&quot;This app uses Health data to help improve your headache tracking experience.&quot;</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CFBundleExecutable</key>
+	<string>HeadAid</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.gpoa.headAid</string>
+</dict>
+</plist>
