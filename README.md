@@ -12,11 +12,4 @@ HeadAid is an iOS application designed to help migraine sufferers manage and tra
 - **Siri Shortcuts**: Use Siri to quickly record migraine attacks through voice commands.
 
 
-## Installation
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/HeadAid.git
-
-2. **Open HeadAid.xcodeproj in Xcode**
-3. **Select your target device in Xcode and Run**
